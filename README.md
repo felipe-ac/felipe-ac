@@ -4,12 +4,12 @@
 
 💡 I'm always interested in challenges and in hearing from former colleagues with different experiences, cultures and philosophies. Be my guest to contact me if you'd like to connect.
 
-- 🔭 **Currently working on:** Social App project for pets adoption
-- 🌱 **Currently learning:** C#
-- 👯 **Looking to collaborate with:** New web developers and students
-- 💬 **Ask me about:** Anything!
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I speak 5 languages (English, Portuguese, Chinese Mandarin, Spanish, German)
+- **Currently working on:** Social App project for pets adoption
+- **Currently learning:** C#
+- **Looking to collaborate with:** New web developers and students
+- **Ask me about:** Anything!
+- **Pronouns:** He/Him
+- **Fun fact:** I speak 5 languages (English, Portuguese, Chinese Mandarin, Spanish, German)
 
 <h2 align="left">:hammer_and_wrench: Some Technologies and Tools I use:</h2>
 
