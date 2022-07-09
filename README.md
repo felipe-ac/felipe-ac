@@ -1,4 +1,4 @@
-### Hello World! I'm Felipe Alcantara - aka AC 👋
+### Hello World! I'm Felipe Alcantara - aka AC <img width="20" alt="GIF" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 <img align="right" width="500" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/eef76b143584307.627d06916ce10.gif">
 
