@@ -27,8 +27,8 @@
     </p>
 
 <div align=center>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-ac&count_private=true&theme=onedark" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ac&theme=onedark&layout=compact" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-ac&count_private=true&theme=onedark" />
 </div>
 
 <h2 align="left">:heart: Let's get connected:</h2>
