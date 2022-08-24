@@ -4,9 +4,8 @@
 
 💡 I'm always interested in challenges and in hearing from former colleagues with different experiences, cultures and philosophies. Be my guest to contact me if you'd like to connect.
 
-- **Currently working on:** Social App project for pets adoption
 - **Currently learning:** C#
-- **Looking to collaborate with:** New web developers and students
+- **Looking to collaborate with:** New software engineers and web developers students
 - **Ask me about:** Anything!
 - **Pronouns:** He/Him
 - **Fun fact:** I speak 5 languages (English, Portuguese, Chinese Mandarin, Spanish, German)
