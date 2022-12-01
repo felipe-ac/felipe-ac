@@ -4,7 +4,7 @@
 
 💡 I'm always interested in challenges and in hearing from former colleagues with different experiences, cultures and philosophies. Be my guest to contact me if you'd like to connect.
 
-- **Currently learning:** C#
+- **Currently learning:** Salesforce Admin, Salesforce Dev
 - **Looking to collaborate with:** New software engineers and web developers
 - **Ask me about:** Anything!
 - **Pronouns:** He/Him
