@@ -24,11 +24,61 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     </p>
+    
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky">- Methodologies: Agile, SCRUM, Kanban.</td>
+    <td class="tg-0pky" rowspan="15">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ac&theme=onedark&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-ac&count_private=true&theme=onedark" />  
+    </td></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">- CI & CD: GitHub Actions.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">- Software Architecture: MVC, SOLID and Clean Code Principles, Clean Architecture, Test-Oriented Development (TDD), Object-Oriented Design (OOD).</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">- Programming: JavaScript, TypeScript, Python, C#, Apex.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Back-End: RESTful APIs with Node.js.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Databases: MySQL, MongoDB.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- ORM: Sequelize.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Front-End: Web applications with React, Redux, HTML and CSS.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Design: UI/UX, Photoshop, Illustrator</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Development Tools: Docker, NPM/Yarn, Postman, VSCode with Prettier and ESLint.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Frameworks & Libraries: Express, JWT, Bootstrap, Material Design, Tailwind.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Versioning: GitHub, GitLab.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Cloud: Heroku.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- CRM: Salesforce Administrator/Developer</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">- Operational Systems: Linux, MacOS, Windows.</td></td>
+  </tr>
+</thead>
+</table>
 
-<div align=center>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ac&theme=onedark&layout=compact" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-ac&count_private=true&theme=onedark" />
-</div>
 
 <h2 align="left">:fire: Let's get connected:</h2>
 
