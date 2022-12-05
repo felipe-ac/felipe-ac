@@ -9,6 +9,10 @@ Polyglot professional (English, Portuguese, Chinese Mandarin, Spanish & German) 
 - **Ask me about:** Anything! =)
 - **Pronouns:** He/Him
 
+<h2 align="left">:hammer_and_wrench: Areas of expertise</h2>
+
+<p>  Fullstack | Entry-level | SOLID Principles | Clean Code | Clean Architecture | Test-Oriented Development (TDD)</p>
+
 <h2 align="left">:hammer_and_wrench: Technologies (Hard Skills)</h2>
 
 <p align="left">
@@ -79,7 +83,7 @@ Polyglot professional (English, Portuguese, Chinese Mandarin, Spanish & German) 
 </table>
 
 
-<h2 align="left">:fire: Let's get connected:</h2>
+<h2 align="left">:fire: Let's get connected</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-alcantarafelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcantarafelipe/)](https://www.linkedin.com/in/alcantarafelipe) 
 [![Linkedin Badge](https://img.shields.io/badge/-ac.felipealcantara@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ac.felipealcantara@gmail.com)](mailto:ac.felipealcantara@gmail.com) 
