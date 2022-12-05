@@ -6,7 +6,7 @@ Polyglot professional (English, Portuguese, Chinese Mandarin, Spanish & German) 
 
 - **Currently learning:** Salesforce Admin, Salesforce Dev
 - **Looking to collaborate with:** Software Engineers and Web Developers
-- **Ask me about:** Anything! =)
+- **Ask me about:** Anything!
 - **Pronouns:** He/Him
 
 <h2 align="left">🔷 Areas of expertise</h2>
