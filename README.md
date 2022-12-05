@@ -34,6 +34,7 @@ Polyglot professional (English, Portuguese, Chinese Mandarin, Spanish & German) 
     <td class="tg-0pky">- Methodologies: Agile, SCRUM, Kanban.</td>
     <td class="tg-0pky" rowspan="15">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-ac&theme=onedark&layout=compact" />
+        <img height="150em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7ee23b143584307.627d1059832ae.gif" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-ac&count_private=true&theme=onedark" />  
     </td></td>
   </tr>
