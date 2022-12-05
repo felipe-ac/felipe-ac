@@ -2,15 +2,14 @@
 
 <img align="right" width="500" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/eef76b143584307.627d06916ce10.gif">
 
-💡 I'm always interested in challenges and in hearing from former colleagues with different experiences, cultures and philosophies. Be my guest to contact me if you'd like to connect.
+Polyglot professional (English, Portuguese, Chinese Mandarin, Spanish & German) with experience in web application development. Soft Skills driven, analytical, methodical, and possessing a passion for SOLID Principles, Clean Code, and Clean Architecture.
 
 - **Currently learning:** Salesforce Admin, Salesforce Dev
-- **Looking to collaborate with:** New software engineers and web developers
-- **Ask me about:** Anything!
+- **Looking to collaborate with:** New Software Engineers and new Web Developers
+- **Ask me about:** Anything! =)
 - **Pronouns:** He/Him
-- **Fun fact:** I speak 5 languages (English, Portuguese, Chinese Mandarin, Spanish, German)
 
-<h2 align="left">:hammer_and_wrench: Some Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies (Hard Skills)</h2>
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
